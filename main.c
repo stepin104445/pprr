@@ -1,16 +1,13 @@
 #include <stdio.h>
-	#include <stdlib.h>
-	#include "sum.h"					/* Add include file*/
-	//#include "test_sum.h"				/* Add include file*/
+	#include "sum.h"					
+	
 	int main()
 	{
     	printf("Hello world!\n");
 
-		int my_sum = sum(10, 20);					/* Add function call */
-		printf("Sum = %d", my_sum);
+		int sum_op = sum(10, 20);				
+		printf("Sum = %d", sum_op);
 
-		/* Calling test main*/
-    	//test_main();								/* Add function call */
 
 		return 0;
 	}
