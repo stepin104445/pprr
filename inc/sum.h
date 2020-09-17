@@ -1,7 +1,7 @@
 #ifndef __SUM_H__
 #define __SUM_H__
 
-int sum(int number1, int number2);
+int sum(int num1, int num2);
 
 
 #endif
