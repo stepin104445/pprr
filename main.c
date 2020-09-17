@@ -5,7 +5,7 @@
 	{
     	printf("Hello world!\n");
 
-		int sum_op = sum(10, 20);				
+		int sum_op = sum(20, 20);				
 		printf("Sum = %d", sum_op);
 
 
