@@ -8,7 +8,7 @@
 
 		int sum_op = sum(20, 20);
 		int k=sqrt(9);
-		printf("Sum = %d", sum_op);
+		printf("Sum = %d", k);
 
 
 		return 0;
